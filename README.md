@@ -1,4 +1,3 @@
 
-Estudo de Ajax
 
-Projeto desenvolvido em PHP e AJAX.
+Projeto desenvolvido em PHP e AJAX para fins de estudo.
